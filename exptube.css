@@ -1,0 +1,64 @@
+.parent{
+
+    width:98vw;
+    height:10vh;
+    margin-top: 0px;
+    padding: 15px;
+    background-color:blue;
+    /* trbl */
+    font-size: 24pt;
+    font-family: fantasy;
+    color: white;
+}
+body{
+    margin: 0%;
+    padding: 0%;
+}
+.parent1{
+
+    width:60vw;
+    height:70vh;
+    margin-top: 0px;
+    padding: 0px;
+    background-color:cadetblue;
+    /* trbl */
+    font-size: 24pt;
+    font-family: fantasy;
+    text-align: center;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.parent2{
+
+    width:40vw;
+    height:70vh;
+    margin-top: 0px;
+    padding: 0px;
+    background-color:orange;
+    font-size: 24pt;
+    font-family: fantasy;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.pat{
+    display: flex;
+}
+.foot{
+
+    width:100vw;
+    height:15vh;
+    margin-top: 0px;
+    padding-top: 5px;
+    background-color:cyan;
+    /* trbl */
+    font-size: 24pt;
+    font-family: fantasy;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
